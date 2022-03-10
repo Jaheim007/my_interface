@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="images">
+    <file>Static/playbutton.png</file>
+    <file>Static/musictrack.png</file>
+    <file>Static/imagesb.jpg</file>
+    <file>Static/690f51e0aded53b927d2b4397571e0c6.jpg</file>
+    <file>Static/notification bell.jpg</file>
+    <file>Static/gridimage.png</file>
+    <file>Static/videoblocks-vivid-and-fluid-color-background-4k-video-animation_hfihgwkpi_thumbnail-1080_01.png</file>
+  </qresource>
+</RCC>
